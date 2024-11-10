@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    " - ",
+    " / "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:diamond"
+    },"/": {
+      "item": "minecraft:emerald"
+    },"-": {
+      "item": "minecraft:vine"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:vine_special"
+  }
+}
